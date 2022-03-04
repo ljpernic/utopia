@@ -34,7 +34,7 @@ CustomReactShare.PropTypes = {
 };
 
 CustomReactShare.defaultProps = {
-  url: "https://havenspec.com/",
+  url: "https://www.utopiasciencefiction.com/",
   title: "title not found",
   excerpt: ""
 };

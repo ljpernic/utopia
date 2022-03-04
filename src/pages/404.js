@@ -14,8 +14,8 @@ class NotFoundPage extends React.Component {
           <div className="container pt-8 pt-md-4">
             <div className="row2 justify-content-start pt-2">
               <div className="col-12">
-                <p className="text-center">The page you're looking for doesn't seem to exist.</p>
-                <p className="text-center">Funny how that happens.</p>
+                <p className="text-center">Lorum.</p>
+                <p className="text-center">Ipsum.</p>
               </div>
             </div>
           </div>

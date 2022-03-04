@@ -150,76 +150,93 @@ const Submit = (props) => {
               </div>
             </div>
             <p>
-              It's our goal to publish diverse voices from around the world, and to do that, we are actively seeking stories, poems, and non-fiction pieces by authors from 
-              backgrounds that have been historically underrepresented in the science fiction and fantasy canon. Our submission cycle is therefore split into two categories, where 
-              every other month is explicitly reserved for submissions by authors of color, members of the LGBTQIA+ community, and other underrepresented groups. The 
-              interposing six months remain open to everyone. 
-            </p>
-            <p>
-              Haven Spec Magazine is currently <big>open</big> to all submissions{/*, but we hope to open soon*/}! 
-            </p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem. Vestibulum non vehicula velit. Suspendisse libero dui, bibendum vitae congue ac, malesuada ut diam. Aliquam quam ante, semper quis ullamcorper nec, 
+                  sagittis in nulla. Fusce nec lectus nisl.
+                  </p>
+                  <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem. Vestibulum non vehicula velit. Suspendisse libero dui, bibendum vitae congue ac, malesuada ut diam. Aliquam quam ante, semper quis ullamcorper nec, 
+                  sagittis in nulla. Fusce nec lectus nisl.
+                  </p>
             <hr />
             <h1 className="pt-1 pb-1">
               Guidelines for Fiction
             </h1>
             <p>
-              We are seeking stories in the English language up to 6,000 words by writers from around the world. We favor submisions that have not been published before (including 
-              on your own website), though we do accept a limited number of reprints, and for our two issues focused on the climate crisis, we're particularly interested in 
-              publishing stories from people displaced by or threatened by the climate emergency (see our themes below). For our other four issues, we're open to a wide variety 
-              of stories across the SFF and weird spectra.
-            </p>
-            <p>
-              We pay 1¢ per word for fiction, and we try to respond to all submissions within ten weeks. We will also accept a limited number of previously published 
-              stories, so please indicate on the form if your submission is a reprint. All submissions must use the Shunn manuscript format (we prefer Courier New) and 
-              be either .rtf, .doc, or .docx. 
-            </p>
-            <p>
-              We like stories that are subtle in their telling and stick with us long after we've finished. We're more likely to buy stories that balance a sense 
-              of wonder with a bold plot and emotional depth. Meditative stories that all take place in a single room, for example, are less likely to capture our 
-              imagination. Basically, we want it all: character, concept, dialogue, tone, plot, a strong opening and ending, and everything else!
-            </p>
-            <p>
-              Simultaneous submissions are fine, but please no multiple submissions. Also, please wait at least a week before you submit again after hearing from us about 
-              a story. 
-            </p>
-            <p>  
-              As writers ourselves, we do our best to handle each story with the care and attention it deserves. Every submission is an act of bravery, and we 
-              know that putting yourself out there as a writer can be tough. Just know that any story we receive, unless they contain something illegal, will be kept in confidence.
-            </p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem. Vestibulum non vehicula velit. Suspendisse libero dui, bibendum vitae congue ac, malesuada ut diam. Aliquam quam ante, semper quis ullamcorper nec, 
+                  sagittis in nulla. Fusce nec lectus nisl.
+                  </p>
+                  <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
+                  <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem. Vestibulum non vehicula velit. Suspendisse libero dui, bibendum vitae congue ac, malesuada ut diam. Aliquam quam ante, semper quis ullamcorper nec, 
+                  sagittis in nulla. Fusce nec lectus nisl.
+                  </p>
+                  <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. 
+                  </p>
+                  <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
             <p className="pb-1">
-                When in doubt, don't self reject! Submit submit submit! 
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
             </p>
             <hr />
             <h1 className="pt-1 pb-1">
               Guidelines for Poetry
             </h1>
             <p>
-              We are seeking poetry of any length, and we welcome submissions by poets writing in the English language from anywhere in the world. We favor submisions that have 
-              not been published before (including on your own website), though we do accept a limited number of reprints, and for our two issues focused on the climate crisis, 
-              we're particularly interested in publishing poems from people displaced by or threatened by the climate emergency (see our themes below). For our other four issues, 
-              we're open to a wide variety of poems across the SFF and weird spectra. 
-            </p>
-            <p>
-              We pay $5 for poems under one page (standard formatting) and $10 for longer poems, and we try to respond to all submissions within ten weeks. We will also 
-              accept a limited number of previously published poems, so please indicate on the form if your submission is a reprint. All submissions must use the Shunn manuscript 
-              format (we prefer Courier New) and 
-              be either .rtf, .doc, or .docx.
-            </p>
-            <p>
-              We like poems that use complex fixed verse forms (think sestina, awdl gywydd, masnavi, etc), but we're not against blank or free verse. Most important to us is
-              vivid imagery, clever lyricism, and a strong emotional core.
-            </p>
-            <p className="pb-1">
-              You may submit up to five poems at a time, but please separate them into individual submissions. 
-            </p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem. Vestibulum non vehicula velit. Suspendisse libero dui, bibendum vitae congue ac, malesuada ut diam. Aliquam quam ante, semper quis ullamcorper nec, 
+                  sagittis in nulla. Fusce nec lectus nisl.
+                  </p>
+                  <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
+                  <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem. Vestibulum non vehicula velit. Suspendisse libero dui, bibendum vitae congue ac, malesuada ut diam. Aliquam quam ante, semper quis ullamcorper nec, 
+                  sagittis in nulla. Fusce nec lectus nisl.
+                  </p>
+                  <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. 
+                  </p>
+                  <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
             <hr />
             <h1 className="pt-1 pb-1">
               Guidelines for Non-Fiction
             </h1>
-            <p className="pb-1">
-              We like articles on politics and pop culture, articles steeped in science or otherwise verging on the academic, and pieces with funny or interesting takes we 
-              might not have expected. We pay 1¢ per word for non-fiction, but please nothing over 3,000 words (though we favor shorter over longer).
-            </p>
+            <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem. Vestibulum non vehicula velit. Suspendisse libero dui, bibendum vitae congue ac, malesuada ut diam. Aliquam quam ante, semper quis ullamcorper nec, 
+                  sagittis in nulla. Fusce nec lectus nisl.
+                  </p>
+                  <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
             <hr />
 {/*            
             <h1 className="pt-1 pb-1">
@@ -236,17 +253,19 @@ const Submit = (props) => {
               Guidelines for Translations
             </h1>
             <p className="pb-1">
-              There's so much great fiction in languages we can't read, and we'd like to change that. So if you have a translation of a story that has never appeared in English, 
-              we welcome it as a submission. We pay 1¢ per word for translations. Please see the other guidelines for the kinds of stories and poems we might be interested in.
-            </p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
             <hr />
             <h1 className="pt-1 pb-1">
               Guidelines for Art
             </h1>
             <p className="pb-1">
-              For each issue, we pay $35 for our cover art. If you think your work would look great on the cover of a science fiction and fantasy magazine, send us your best work 
-              and be sure to include a link to your portfolio in the cover letter!
-            </p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
             <hr />
             <h1 className="pt-1 pb-1">
               Themes
@@ -258,13 +277,15 @@ const Submit = (props) => {
               WET ISSUE
             </h5>
             <p>
-              Each September, we publish our WET Issue! Here we focus on stories of water—monsoons and the rising tides, hurricanes and the disappearing coast—we'll center 
-              stories by authors directly affected by the climate crisis, though we'll consider anything that fits the theme, even vaguely! 
-            </p>
-            <p className="pb-1">
-              To submit a story for the theme, make sure to mention in your cover letter how your submission relates to the theme and, if you'd like, how you've been personally 
-              affected by the crisis at hand. Submissions by climate refugees are very welcome. 
-            </p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
+                  <p className="pb-1">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
             <Image className="editorImageAbout mb-2"
               fixed={data.dryCover.childImageSharp.fixed}
             />
@@ -272,14 +293,15 @@ const Submit = (props) => {
               DRY ISSUE
             </h5>
             <p>
-              Each March, we publish our DRY Issue! Here we're looking for content that focuses on the dry aspects of climate change—desertification and falling reservoirs, 
-              rising temperatures and endless droughts—we'll center stories by authors directly affected by the climate crisis, though we'll consider anything that fits the theme, 
-              even vaguely! 
-            </p>
-            <p className="pb-1">
-              To submit a story for the theme, make sure to mention in your cover letter how your submission relates to the theme and, if you'd like, how you've been personally 
-              affected by the crisis at hand. Submissions by climate refugees are very welcome.
-            </p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
+                  <p className="pb-1">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
             <hr className="mb-2" />
             <Link to="/forms">
             <button type="button" className="collapsible">Go to Submission Form</button>

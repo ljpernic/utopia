@@ -106,37 +106,40 @@ const Organization = (props) => {
                   </div>                
 
                   <p>
-                    Haven Spec is run cooperatively! That means we make our major decisions democratically and that we share what profits we earn according to an agreed 
-                    upon set of rules.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem. Vestibulum non vehicula velit. Suspendisse libero dui, bibendum vitae congue ac, malesuada ut diam. Aliquam quam ante, semper quis ullamcorper nec, 
+                  sagittis in nulla. Fusce nec lectus nisl.
                   </p>
-
                   <p>
-                    Currently, we've agreed that, through 2022, every penny we get, whether through sales, subscriptions, or Kickstarter, will go towards increasing author pay, 
-                    up to SFWA-standard rates. After we reach SFWA rates, we've agreed that any money earned in excess will be put towards recouping expenses related to art and 
-                    web hosting. After those expenses, we've agreed that any profits remaining will be split each issue at a share ratio of 1/2/4 for associate editors, 
-                    assistant editors, and editors, respectively.
+                  Sed lobortis velit eu massa tempus venenatis. Aenean vel lorem vel ex ullamcorper rhoncus. Maecenas justo urna, rhoncus nec volutpat luctus, fringilla sit amet 
+                  dolor. Suspendisse facilisis ex ac tellus semper, id commodo dolor posuere. Mauris enim purus, sollicitudin id gravida nec, varius blandit orci. In rhoncus 
+                  neque eu semper fringilla. In ut dui convallis, euismod diam vitae, pharetra magna. Nullam vitae tristique sem. Nunc nec neque vitae nunc porttitor cursus sit 
+                  amet nec libero.
                   </p>
-
                   <p>
-                    For example, if an issue has two associate editors and one editor, that would be six shares total for that issue (one for each associate editor and 
-                    four for the editor). If there were then $60 in profit after increasing author pay and paying expenses, that would be split between the three editors at 
-                    $10/$10/$40. 
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem. Vestibulum non vehicula velit. Suspendisse libero dui, bibendum vitae congue ac, malesuada ut diam. Aliquam quam ante, semper quis ullamcorper nec, 
+                  sagittis in nulla. Fusce nec lectus nisl.
                   </p>
-
                   <p>
-                    Long-term shares of Haven Spec are also earned at a 1/2/4 ratio for associate editors, assistant editors, and editors, respectively. If Haven Spec were ever 
-                    sold at a profit, each previous and current editor would be due a portion of the profits equal to the total number of shares they've earned in the issues 
-                    they've worked on divided by the total number of shares earned by everyone across the life of the magazine.
+                  Sed lobortis velit eu massa tempus venenatis. Aenean vel lorem vel ex ullamcorper rhoncus. Maecenas justo urna, rhoncus nec volutpat luctus, fringilla sit amet 
+                  dolor. Suspendisse facilisis ex ac tellus semper, id commodo dolor posuere. Mauris enim purus, sollicitudin id gravida nec, varius blandit orci. In rhoncus 
+                  neque eu semper fringilla. In ut dui convallis, euismod diam vitae, pharetra magna. Nullam vitae tristique sem. Nunc nec neque vitae nunc porttitor cursus sit 
+                  amet nec libero.
                   </p>
-
                   <p>
-                    For example, after six issues (one year), if each issue had two associate editors and one editor, that would mean six shares per issue, and 36 shares total. 
-                    Each associate editor after six issues would have six shares, and the editor would have 24. A third associate editor added for the first issue of the 
-                    next year, then, would increase the number of shares per issue to seven (1/1/1/4), the individual totals to 7/7/1/28, and the number of shares overall to 43.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem. Vestibulum non vehicula velit. Suspendisse libero dui, bibendum vitae congue ac, malesuada ut diam. Aliquam quam ante, semper quis ullamcorper nec, 
+                  sagittis in nulla. Fusce nec lectus nisl.
                   </p>
-
                   <p>
-                    The editors have also agreed to meet at least once a month, though the rules that govern profit and pay can only be changed in the first meeting of the year. 
+                  Sed lobortis velit eu massa tempus venenatis. Aenean vel lorem vel ex ullamcorper rhoncus. Maecenas justo urna, rhoncus nec volutpat luctus, fringilla sit amet 
+                  dolor. Suspendisse facilisis ex ac tellus semper, id commodo dolor posuere. Mauris enim purus, sollicitudin id gravida nec, varius blandit orci. In rhoncus 
+                  neque eu semper fringilla. In ut dui convallis, euismod diam vitae, pharetra magna. Nullam vitae tristique sem. Nunc nec neque vitae nunc porttitor cursus sit 
+                  amet nec libero.
                   </p>
 
             <hr className="mb-2" />

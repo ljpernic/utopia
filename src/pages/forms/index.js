@@ -25,14 +25,14 @@ function shuffle(array) {
 
 const Forms = (props) => {
   const data = props.data;
-  const currentIssue = `https://ko-fi.com/havenspec/shop`;
+  const currentIssue = `https://ko-fi.com`;
   
   var imgArray = [data.advert01.childImageSharp.fixed, data.advert02.childImageSharp.fixed, data.advert03.childImageSharp.fixed];
   var shuffledArray = shuffle(imgArray);
 
   return (
     <Layout bodyClass="page-home">
-      <SEO title="Haven Spec Magazine's organization and budget breakdown" />
+      <SEO title="Utopia Science Fiction Magazine form page" />
       <Helmet>
         <meta
           name="description"
@@ -106,8 +106,8 @@ const Forms = (props) => {
                     </Link>
                   </div>
 
-                    <p>Below is the submission form for submitting fiction, poetry, non-fiction, and art to Haven Spec Magazine. If you haven't already done 
-                      so, please read our submission guidelines on <Link to="/submit">the submission page.</Link> 
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies 
+                      libero."<Link to="/submit">the submission page.</Link> 
                     </p>
 
                     <div className="pt-2">

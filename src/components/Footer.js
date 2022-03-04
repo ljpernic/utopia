@@ -21,7 +21,7 @@ const Footer = props => (
             </Link>
             
             <div className="social-media">
-            <a href="https://twitter.com/HavenSpec">
+            <a href="https://twitter.com/FictionUtopia">
               <IconContext.Provider value={{ className:"social-media", color: "gray", size: "2em", verticalAlign: "middle", title:"social media icons"}}>
                   <div>
                     <FaTwitter />

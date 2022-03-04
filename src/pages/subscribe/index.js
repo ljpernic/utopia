@@ -25,7 +25,7 @@ function shuffle(array) {
 
 const Subscribe = (props) => {
   const data = props.data;
-  const currentIssue = `https://ko-fi.com/havenspec/shop`;
+  const currentIssue = `https://ko-fi.com`;
   
   var imgArray = [data.advert01.childImageSharp.fixed, data.advert02.childImageSharp.fixed, data.advert03.childImageSharp.fixed];
   var shuffledArray = shuffle(imgArray);
@@ -109,44 +109,55 @@ const Subscribe = (props) => {
               Subscribe
             </h1>
             <p>
-              Get each new issue sent directly to your inbox through <Link to="https://ko-fi.com/havenspec/tiers"> Ko-Fi </Link> or 
-              <Link to="https://www.patreon.com/HavenSpecMagazine"> Patreon</Link>! It's basically magic! Remember, a mastodon never forgets—to subscribe!
-            </p>
-            <p>
-              You can also sign up for workshop-style feedback from our editors on any work of prose or poetry you choose (once per month and up to 6K words), and there's even an 
-              option to meet one-on-one with our editor over zoom for an hour-long deep-dive critique session!
-            </p>
-            <p className="pb-1">
-              Every penny that we get through Ko-Fi and Patreon will go towards increasing author pay! If you'd like to know more about our budget breakdown and organizational  
-              set up, <Link to="/organization">Click here!</Link> Help us pay our authors and artists the rates they deserve! 
-            </p>
-
-            <a href="https://www.patreon.com/bePatron?u=61506985" data-patreon-widget-type="become-patron-button">
-              Become a Patron!
-            </a>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
+                  <p className="pb-1">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
+                  <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
+                  <p className="pb-1">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
 
             <hr />
             <h1 className="pt-1 pb-1">
             Kickstarter
             </h1>
-            <p className="pb-1">
-              Keep an eye on this space for information about any Kickstarters we might do! The future belongs to all of us!
-            </p>
+            <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
+                  <p className="pb-1">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
             <hr />
 
             <h1 className="pt-1 pb-1">
               Advertise
             </h1>
-            <p className="">
-              At this moment, all ads are $30 per month, starting from the first of a given month and going until that month ends.
-            </p>
             <p>
-              Each ad appears on every page of the website, and the square ads change position with each pageview. Do note, however, that all advertisements are subject to approval.
-            </p>
-            <p>
-              To advertise, contact us using the contact form on our <Link to="/about">about page</Link>. Please also be prepared to send us a suitable image of 250 x 250 pixels 
-              (for square ads) or 424 x 60 pixels (for the banner ad), along with a single link to whatever's being advertised. 
-            </p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
+                  <p className="pb-1">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio eleifend, condimentum tortor ac, venenatis ante. In ut ultricies libero. Suspendisse 
+                  malesuada convallis sem non auctor. Sed at interdum urna, sed ultrices ante. Quisque odio lorem, fermentum et mauris eget, pretium facilisis turpis. Aliquam 
+                  vitae dui sem.
+                  </p>
 
             <hr className="mb-2" />
 
